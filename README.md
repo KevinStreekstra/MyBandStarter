@@ -3,7 +3,7 @@
 TITEL
 
 De titel van mijn website is Ajax de website is van Kevin Streekstra de gebruikers kunnen informatie verzamelen over Ajax door alle jaren heen.
-De doelgroep van deze website is van klein naar groot, deze website is enigzins te vergelijken met de website van Feyenoord en van PSV maar toch net iets anders
+De doelgroep van deze website is voor Kinderen, deze website is enigzins te vergelijken met de website van Feyenoord en van PSV maar toch net iets anders
 omdat, Ajax heeft door de jaren heen meer prijzen behaald en een grotere geschiedenis dan de andere voetbalclubs.
 
 
