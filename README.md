@@ -9,5 +9,5 @@ omdat, Ajax heeft door de jaren heen meer prijzen behaald en een grotere geschie
 
 UNIEK CONCEPT
 
-(1): Dit is de mooiste en de beste club van Nederland en met de mooiste geschiedenis van wat ze allemaal bereikt hebben.
-(2): Nou wat ik net al zei het is de mooiste club van Nederland want iedereen onthoud van wat Ajax vroeger allemaal heeft bereikt.
+(1):Waarom mijn site, omdat ik alles vertel over de geschiedenis en je krijgt live informatie over de selectie van Ajax.
+(2):Mijn site gaat opvallen door alle specificaties die het allemaal kan, ik ga live informatie over de geschiedenis en de selectie toevoegen waardoor je altijd up-to-date blijft.
