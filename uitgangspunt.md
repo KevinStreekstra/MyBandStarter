@@ -6,7 +6,7 @@ FASE 1
 
 Feyenoord en PSV zijn de concurrenten.
 Doelgroep: het is voor iedereen.
-De diensten: ....
+De diensten: Je krijgt live te zien hoe het met de selectie gaat van Ajax 1, bijvoorbeeld: Als er een speler geblesseerd dan krijg je dat meteen te weten en als er een transfer van een speler bezig is dan krijgen jullie dat meteen te zien. 
 
 FASE 2
 
