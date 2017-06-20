@@ -50,7 +50,7 @@ LINK DOCUMENTATIES
 | b1-k1-w3 Technisch Ontwerp |  TODO |  niet aanwezig |
 | b1-k1-w3 ERD               |  TODO |  Niet aanwezig |
 | b1-k1-w4 Ontwikkelomgeving |  TODO |  [doc/fase2/oo.md]|
-| Link naar de live omgeving |  TODO |  <https://mijnliveomgeving.com>|
+| Link naar de live omgeving |  TODO |  <https://github.com/KevinStreekstra/MyBandStarter/blob/master/liveomgeving.md>|
 | Implementatieplan          | TODO |  [doc/fase2/imp.rtf] |
 
    [doc/fase2/TO.rtf]: <>
