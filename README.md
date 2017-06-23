@@ -30,7 +30,7 @@ LINK DOCUMENTATIES
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | Niet aanwezig |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | Niet aanwezig |
+| b1-k1-w2 FLowChart             | TODO | [Flow]                  | PNG |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Niet aanweizg|
 
    [readme.md]: <https://github.com/KevinStreekstra/MyBandStarter/blob/master/README.md>
@@ -41,7 +41,7 @@ LINK DOCUMENTATIES
    [doc/1/planning.md]: <https://github.com/KevinStreekstra/MyBandStarter/blob/master/planning.md>
    [doc/1/moodboard]: <https://drive.google.com/drive/folders/0B9NIkmqC92ARemd6dXlwQmZpSzg>
    [FO]: <>
-   [Flow]: <>
+   [Flow]: <https://github.com/KevinStreekstra/MyBandStarter/blob/master/MyBand.png>
    [axShare]: <>
 
 #### Milestones Fase 2
