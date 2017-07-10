@@ -62,11 +62,11 @@ LINK DOCUMENTATIES
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
 | B1-K2-W2 GebruikersTestrapport | TODO |  [test] |
-| usertest video | TODO |niet aanwezig |
+| usertest video | TODO | |
 | B1-K3-W1 Optimalisatieplan | TODO | Niet aanwezig |
 | Statistieken | TODO |  Niet aanwezig|
 
- [usertest_youtube]: <>
+ [usertest_youtube]: <https://www.youtube.com/watch?v=NvgRiwYig4I>
  [test]: <https://github.com/KevinStreekstra/MyBandStarter/blob/master/testrapport.md>
  [op]: <https://docs.google.com/spreadsheets/>
  [mystat]: <https://docs.google.com/spreadsheets/>
